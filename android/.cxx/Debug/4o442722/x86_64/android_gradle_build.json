@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/amaandhanerawala/.pub-cache/hosted/pub.dev/wasm_run_flutter-0.0.1/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/amaandhanerawala/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/amaandhanerawala/.pub-cache/hosted/pub.dev/wasm_run_flutter-0.0.1/android/.cxx/Debug/4o442722/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/amaandhanerawala/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/amaandhanerawala/.pub-cache/hosted/pub.dev/wasm_run_flutter-0.0.1/android/.cxx/Debug/4o442722/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {},
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/amaandhanerawala/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/amaandhanerawala/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": []
+}
